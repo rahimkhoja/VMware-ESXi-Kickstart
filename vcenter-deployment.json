@@ -31,11 +31,11 @@
         "os": {
             "password": "PlainTextvCenterPassword-SSH", # Update This line
             "ntp_servers": "pool.ntp.org", # Update This line
-            "ssh_enable": true
+            "ssh_enable": true # Update This Line
         },
         "sso": {
-            "password": "PlainTextvCenterPassword-SSO-WEB",
-            "domain_name": "vsphere.local"
+            "password": "PlainTextvCenterPassword-SSO-WEB", # Update This Line
+            "domain_name": "vsphere.local" # Update This Line
         }
     },
     "ceip": {
