@@ -145,3 +145,4 @@ fi
 
 # Reboot and Restart in Normal Operating Mode 
 sleep 30
+reboot
